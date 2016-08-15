@@ -1,0 +1,7 @@
+Binarize Image using OpenCV Thresold
+
+Sintaxis: -IN:str -OUT:str
+
+Donde:
+-IN   	Image to binarize
+-OUT  	Path where the image result will save
